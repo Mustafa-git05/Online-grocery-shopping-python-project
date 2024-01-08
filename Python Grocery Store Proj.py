@@ -10,22 +10,22 @@ shopping_cart_prices=[]
 categories = ["1.Dairy","2.Meats","3.Vegetables","4.Fruits","5.Bakery","6.Snacks"]
 
 dairy={"liter milk":5.99 , " dozen eggs":11.99 , "feta cheese":8.99,}
-dairy_list=["1) liter milk", "2) dozen eggs", "3) feta cheese"]
+dairy_list=["1) liter milk: 5.99 AED ", "2) dozen eggs: 11.99 AED", "3) feta cheese: 8.99 AED"]
 
 meats={"kg chicken breast":39.99,"kg chicken thighs": 35.99,"kg beef tomahawk":30.99}
-meats_list=["1) kg chicken breast","2) kg chicken thighs","3) kg beef tomahawk"]
+meats_list=["1) kg chicken breast: 39.99 AED","2) kg chicken thighs: 35.99 AED","3) kg beef tomahawk: 30.99 AED"]
 
 vegs={"kg carrots":3.99,"kg broccoli":4.99,"kg lettuce":5.99}
-vegs_list=["1) kg carrots","2) kg broccoli","3) kg lettuce"]
+vegs_list=["1) kg carrots: 3.99 AED","2) kg broccoli: 4.99 AED","3) kg lettuce: 5.99 AED"]
 
 fruits={"kg apples":4.99,"kg oranges":5.99,"kg blueberries":3.99}
-fruits_list=["1) kg apples","2) kg oranges","3) kg blueberries"]
+fruits_list=["1) kg apples: 4.99 AED","2) kg oranges: 5.99 AED","3) kg blueberries: 3.99 aed"]
 
 bakery={"al arz bread":1.99,"buns":2.99,"croissants":5.99}
-bakery_list=["1) al arz bread", "2) buns", "3) croissants"]
+bakery_list=["1) al arz bread: 1.99 AED", "2) buns: 2.99 AED", "3) croissants: 5.99 AED"]
 
 Snacks={"chocolate bars":2.99,"lays chips":1.99,"gummy worms":3.99}
-Snacks_list=["1) chocolate bars","2) lays chips","3) gummy worms"]
+Snacks_list=["1) chocolate bars: 2.99 AED","2) lays chips: 1.99 AED","3) gummy worms: 3.99 AED"]
 
 
 
